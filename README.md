@@ -1,0 +1,2 @@
+Yêu cầu: Chọn một trang web mà bạn thích, sử dụng kiến thức HTML, CSS đã học, viết lại giao diện trang. Yêu cầu: sử dụng git trong quá trình code, cố gắng chia nhỏ mỗi commit là một component. Viết 1 file riêng components.html là nơi lưu lại các component trong trang, tách riêng mỗi component ra một file css. Gửi link github sau khi hoàn thành. Ví dụ các trang mẫu: meetup.com, instagram.com, facebook.com, airbnb.com hoặc các giao diện khác trên themeforest.net
+
