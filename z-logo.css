@@ -1,0 +1,9 @@
+.z-logo {
+    width: 100px;
+    height: 32px;
+    background-image: url('./logo-mp-3.svg');
+    text-decoration: none;
+    background-size: cover;
+    font-size: 0;
+    margin-top: 19px;
+}

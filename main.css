@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.top-bar-inner {
+    display: flex;
+    justify-content: space-between;
+    width: 1026px;
+    margin: 0 auto;
+}
+#header {
+    position: fixed;
+    height: auto;
+    display: block;
+    top:0;
+    width: 100%;
+}
+.top-bar {
+    height: 124px;
+    background-color: #0D021A;
+    background-size: cover;
+    background-position: center;
+}
