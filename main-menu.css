@@ -5,11 +5,13 @@
     font-size: 13px;
     width: 1026px;
     padding-left: 0px;
+    height: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
 .menu-bar{
    display: flex;
    justify-content: center;
+   height: 60px;
 }
 .main-menu li {
     position: relative;
@@ -22,14 +24,14 @@
     font-weight: bold;
 }
 
-.menu-link:hover {
+.main-menu li:hover {
     color: #4f3384;
 }
 
 .main-menu table {
     display: none;
     border-radius: 15px;
-    width: 500px;
+    width: 350px;
     top: 45px;
     background-color: #281944;
     position: absolute;
@@ -49,6 +51,7 @@
 }
 .main-menu table tbody td {
     padding: 5px;
+    color: #fff;
 }
 .main-menu table tbody {
     text-transform: initial;
